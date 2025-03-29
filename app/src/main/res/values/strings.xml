@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">SQLite</string>
+    <string name="PE">Photographie étudiant</string>
+    <string name="BPE">Choisir la photo</string>
+    <string name="nom">Nom: </string>
+    <string name="hintNom">Entrez votre nom</string>
+    <string name="prenom">Prenom: </string>
+    <string name="hintprenom">Entrez votre prenom </string>
+    <string name="DN">Date de naissance: </string>">
+    <string name="HDN">Choisir une date</string>
+    <string name="BC">Choisir</string>
+    <string name="ajout">Ajouter</string>
+    <string name="ID">ID etudiant: </string>
+    <string name="hintID">entrez id </string>
+    <string name="Chercher">Chercher</string>
+    <string name="afficher">Afficher la table etudiant</string>
+    <string name="supprimer">Supprimer</string>
+    <string name="PEI">photo étudiant</string>
+    <string name="Etudiant">Étudiants</string>
+    <string name="Photo">Photo</string>
+    <string name="id">ID</string>
+    <string name="Nom">Nom</string>
+    <string name="Prenom">Prenom</string>
+    <string name="DTN">Date de naissance</string>">
+
+</resources>
